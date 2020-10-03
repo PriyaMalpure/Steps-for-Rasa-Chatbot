@@ -16,7 +16,7 @@
 
 When this will be successfully done, it will create different files <br>and directories in your current directory in the format shown below:
 
-<img src="file.png" style="width:600px;height:250px;" >
+<img src="file.PNG" style="width:600px;height:250px;" >
 
 Also, this will train your model for the first time with this command.
 
