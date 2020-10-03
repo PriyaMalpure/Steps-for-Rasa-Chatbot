@@ -1,7 +1,6 @@
 <h3> Steps for building Rasa Chatbot</h3><br>
-<B> Step1 :Install python virtual environment.<br></B>
-    &emsp; &emsp; python3 -m venv env_name<br>
-    
+<B> Step1 : Install python virtual environment.<br></B>
+    &emsp; &emsp; python3 -m venv env_name<br><br>
 <B> Step2 : Activate virtual environment.<br></B>
     &emsp; &emsp; env_name\Scripts\activate<br>
     
